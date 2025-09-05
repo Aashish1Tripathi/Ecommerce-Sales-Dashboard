@@ -1,9 +1,9 @@
 # Ecommerce-Sales-Dashboard
-## Project Objective
+## Project Objective:
 This project showcases an interactive E-commerce Sales Dashboard developed using Microsoft Power BI. The dashboard is designed to provide a comprehensive view of key performance metrics for an online store, helping businesses monitor, analyze, and improve their sales performance through data-driven insights.
 The dashboard integrates data from multiple sources and displays critical KPIs, including Total Sales, Number of Orders, Revenue Trends, Average Order Value, Top-Selling Products, Customer Segmentation, and more. It offers dynamic filtering options by region, product category, and customer type, allowing users to drill down into specific segments for deeper analysis.
 
-## KPIs
+## KPIs:
 - Total Sales Revenue
 - Total Number of Orders
 - Average Order Value (AOV)
@@ -15,11 +15,11 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 - Sales by Month
 - Mode of Payment
 
-## Data Source
+## Data Source:
 - <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Order_Details.csv">Order_Details</a>
 - <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Customer_Details.csv">Customer_Details</a>
 
-## Dashboard
+## Dashboard:
 - Overall Dashboard
 <img width="1920" height="991" alt="Overall_Dashboard" src="https://github.com/user-attachments/assets/f184cc64-cd76-4458-bcd7-a9db7f884423" />
 
@@ -36,7 +36,7 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 <img width="1920" height="994" alt="Top_Selling_Category" src="https://github.com/user-attachments/assets/9d1aca1c-6a58-4ec2-aa26-6382810451d3" />
 
 
-## Project Insights
+## Project Insights:
 
 - Maharashtra leads significantly in sales, followed by Madhya Pradesh and Uttar Pradesh. This indicates a regional concentration of sales efforts and customer base, which can guide targeted marketing or expansion strategies.
 
@@ -48,7 +48,7 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 
 - Profit trends show strong performance in months like January and December, but also noticeable dips in May, July, September and December. This indicates seasonal buying patterns or operational inefficiencies during certain periods.
 
-## Final Conclusion with Recommendations for Improvement
+## Final Conclusion with Recommendations for Improvement:
 
 This Power BI E-commerce Sales Dashboard delivers valuable insights into sales performance, customer behavior, and regional trends. From the data, several areas for improvement and optimization emerge:
 
