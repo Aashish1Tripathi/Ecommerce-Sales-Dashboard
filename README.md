@@ -17,3 +17,4 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 
 ## Data Source
 - <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Order_Details.csv">Order_Details</a>
+- <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Customer_Details.csv">Customer_Details</a>
