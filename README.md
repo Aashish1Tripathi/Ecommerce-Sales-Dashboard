@@ -14,3 +14,6 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 - Top Customers
 - Sales by Month
 - Mode of Payment
+
+## Data Source
+- <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Order_Details.csv">Dataset</a>
