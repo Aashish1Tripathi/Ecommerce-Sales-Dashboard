@@ -20,4 +20,5 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 - <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Customer_Details.csv">Customer_Details</a>
 
 ## Dashboard
-- <img width="1920" height="991" alt="Overall_Dashboard" src="https://github.com/user-attachments/assets/f184cc64-cd76-4458-bcd7-a9db7f884423" />
+- Overall Dashboard
+<img width="1920" height="991" alt="Overall_Dashboard" src="https://github.com/user-attachments/assets/f184cc64-cd76-4458-bcd7-a9db7f884423" />
