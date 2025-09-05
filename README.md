@@ -16,4 +16,4 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 - Mode of Payment
 
 ## Data Source
-- <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Order_Details.csv">Dataset</a>
+- <a href="https://github.com/Aashish1Tripathi/Ecommerce-Sales-Dashboard/blob/main/Order_Details.csv">Order_Details</a>
