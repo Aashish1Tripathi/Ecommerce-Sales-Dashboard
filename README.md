@@ -22,3 +22,16 @@ The dashboard integrates data from multiple sources and displays critical KPIs, 
 ## Dashboard
 - Overall Dashboard
 <img width="1920" height="991" alt="Overall_Dashboard" src="https://github.com/user-attachments/assets/f184cc64-cd76-4458-bcd7-a9db7f884423" />
+
+- First Quarter Sales
+<img width="1920" height="990" alt="First_Quarter_Result" src="https://github.com/user-attachments/assets/11ed2d14-2403-491d-8bc5-d0469add894d" />
+
+- Top Performing State
+<img width="1920" height="996" alt="Top Performing State" src="https://github.com/user-attachments/assets/5a296c85-979b-4d41-9ead-b8fa5a139d29" />
+
+- Top Customer
+<img width="1920" height="992" alt="Top_Customer" src="https://github.com/user-attachments/assets/ac38070d-8e1f-4967-8498-1327563b5164" />
+
+- Top Selling Category
+<img width="1920" height="994" alt="Top_Selling_Category" src="https://github.com/user-attachments/assets/9d1aca1c-6a58-4ec2-aa26-6382810451d3" />
+
